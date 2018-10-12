@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="ddt-reporting(failed)">
+    <classes>
+      <class name="GMailTest">
+        <methods>
+          <include name="testUndoWithMessagesDeletion" invocation-numbers="3 1 4"/>
+          <include name="exit"/>
+        </methods>
+      </class> <!-- GMailTest -->
+    </classes>
+  </test> <!-- ddt-reporting(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

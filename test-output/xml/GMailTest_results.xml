@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GMail Success Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="136,137">
+  <properties />
+  
+  
+            <testcase name="testUndoWithMessagesDeletion" time="20,226" classname="GMailTest" />
+                <testcase name="testUndoWithMessagesDeletion" time="33,136" classname="GMailTest" />
+                <testcase name="testUndoWithMessagesDeletion" time="19,783" classname="GMailTest" />
+                <testcase name="testUndoWithMessagesDeletion" time="32,451" classname="GMailTest" />
+                <testcase name="testUndoWithMessagesDeletion" time="30,541" classname="GMailTest" />
+      
+</testsuite>
